@@ -1,0 +1,14 @@
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+I:\ИВТ-б-о-22-1\Алгоритмизация\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
